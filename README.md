@@ -18,6 +18,10 @@ npm install --save-dev \
 
 npm i -D lint-staged
 
+npm install husky --save-dev
+
+npm i -D jest @types/jest ts-jest
+
 # Comandos que podem ser útil git
 
 git commit --amend --no-edit <- Junta commit com o anterior >
